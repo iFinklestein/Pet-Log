@@ -1,3 +1,4 @@
+// DEV-ONLY: seeds demo data and nukes existing records
 import React, { useState } from "react";
 import { seedDemoData } from "../utils/demoData";
 import { Button } from "@/components/ui/button";

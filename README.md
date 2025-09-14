@@ -1,20 +1,11 @@
-# Base44 App
+# Pet Log Queenie Edition
 
+Draíocht Studios app to track vet appointments, meds, feedings, groomings. Built with Vite + React + Tailwind + shadcn/ui.
 
-This app was created automatically by Base44.
-It's a Vite+React app that communicates with the Base44 API.
-
-## Running the app
-
+## Quickstart
 ```bash
-npm install
+npm i
 npm run dev
-```
-
-## Building the app
-
-```bash
+# build & preview
 npm run build
-```
-
-For more information and support, please contact Base44 support at app@base44.com.
+npm run preview
